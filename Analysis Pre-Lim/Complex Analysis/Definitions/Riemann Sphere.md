@@ -1,0 +1,1 @@
+The Riemann sphere is the projection of the complex plane onto a sphere. Some key properties include that lines are mapped to circles on the sphere, circles to circles, and sectors to shells. 

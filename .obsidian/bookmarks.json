@@ -1,0 +1,55 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1750732363059,
+      "items": [
+        {
+          "type": "group",
+          "ctime": 1750732443701,
+          "items": [
+            {
+              "type": "group",
+              "ctime": 1750732443701,
+              "items": [
+                {
+                  "type": "group",
+                  "ctime": 1750732443701,
+                  "items": [],
+                  "title": "Definitions"
+                },
+                {
+                  "type": "group",
+                  "ctime": 1750732443701,
+                  "items": [],
+                  "title": "Theorems"
+                },
+                {
+                  "type": "group",
+                  "ctime": 1750732443701,
+                  "items": [],
+                  "title": "Past Pre-Lim Exams"
+                }
+              ],
+              "title": "Complex Analysis"
+            },
+            {
+              "type": "group",
+              "ctime": 1750732808153,
+              "items": [],
+              "title": "Real Analysis"
+            },
+            {
+              "type": "group",
+              "ctime": 1750732808153,
+              "items": [],
+              "title": "Images"
+            }
+          ],
+          "title": "Analysis Pre-Lim"
+        }
+      ],
+      "title": "sortspec"
+    }
+  ]
+}
