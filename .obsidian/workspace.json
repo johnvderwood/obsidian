@@ -160,7 +160,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "google-drive-sync:Push to Google Drive": false,
+      "github-sync:Sync with Remote": false,
       "custom-sort:Toggle custom sorting": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
