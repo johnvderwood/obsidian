@@ -19,7 +19,7 @@ _________________________________________________________________
 
 ***Proof***: With the goal of employing [[Schwarz Lemma]], we want to funnel $f$ such that 0 is mapped to 0. To this end, we first consider a couple transformations:
 $$
-\psi(z)=\psi_{\frac{1}{2}}(z)=\frac{z-\frac{1}{2}}{1-\overline{\frac{1}{2}}z}
+\psi(z)=\psi_{\frac{1}{2}}(z)=\frac{\frac{1}{2}-z}{1-\overline{\frac{1}{2}}z}
 $$
 It should be noted that this standard map from $\mathbb{D}\rightarrow \mathbb{D}$ sends 0 to $\frac{1}{2}$ and vice versa. Now we further consider 
 $$
@@ -47,10 +47,13 @@ $$
 $$
 Substituting the appropriate values, 
 $$
-\Psi'(f(1/2))=\frac{1}{1-|f(1/2)|^2} \ \text{ and } \ \psi'(0)=\frac{4}{3}
+\Psi'(f(1/2))=\frac{1}{1-|f(1/2)|^2} \ \text{ and } \ \psi'(0)=\frac{3}{4}
 $$
 Thus, the RHS of the before inequality becomes
 $$
-|f'(1/2)|\leq \frac{3(1-|f(1/2)|^2)}{4}\leq \frac{3}{4}
+|f'(1/2)|\leq \frac{4(1-|f(1/2)|^2)}{3}\leq \frac{4}{3}
 $$
 The function $f(z)=\psi(z)$ attains this bounding value since, as per the above formula for $\psi_\alpha'(z)$, $\psi_{1/2}'(1/2)=$ 
+
+# #8
+![[Pasted image 20250626140707.png]]
