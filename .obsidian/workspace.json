@@ -11,12 +11,14 @@
             "id": "36b8985b6ee00755",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Analysis Pre-Lim/Images/Pasted image 20250626140707.png"
+                "file": "Analysis Pre-Lim/Complex Analysis/Past Pre-Lim Exams/January 2022.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250626140707"
+              "icon": "lucide-file",
+              "title": "January 2022"
             }
           }
         ]
@@ -170,8 +172,8 @@
   },
   "active": "36b8985b6ee00755",
   "lastOpenFiles": [
-    "Analysis Pre-Lim/Complex Analysis/Past Pre-Lim Exams/August 2020.md",
     "Analysis Pre-Lim/Images/Pasted image 20250626140707.png",
+    "Analysis Pre-Lim/Complex Analysis/Past Pre-Lim Exams/August 2020.md",
     "Pasted image 20250626140707.png",
     "Analysis Pre-Lim/Complex Analysis/Past Pre-Lim Exams/January 2022.md",
     "Analysis Pre-Lim/Complex Analysis/Past Pre-Lim Exams/August 2021.md",
