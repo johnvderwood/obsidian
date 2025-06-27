@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "0793b591e9c2c79b",
+        "id": "a4d3413e52586e3f",
         "type": "tabs",
         "children": [
           {
-            "id": "7c74624a802d9d46",
+            "id": "36b8985b6ee00755",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Analysis Pre-Lim/Complex Analysis/Past Pre-Lim Exams/August 2021.md",
-                "mode": "source",
-                "source": false
+                "file": "Analysis Pre-Lim/Images/Pasted image 20250626140707.png"
               },
-              "icon": "lucide-file",
-              "title": "August 2021"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250626140707"
             }
           }
         ]
@@ -160,8 +158,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "custom-sort:Toggle custom sorting": false,
       "github-sync:Sync with Remote": false,
+      "custom-sort:Toggle custom sorting": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -170,26 +168,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7c74624a802d9d46",
+  "active": "36b8985b6ee00755",
   "lastOpenFiles": [
     "Analysis Pre-Lim/Complex Analysis/Past Pre-Lim Exams/August 2020.md",
-    "Analysis Pre-Lim/Complex Analysis/Past Pre-Lim Exams/August 2021.md",
-    "Analysis Pre-Lim/Complex Analysis/Theorems/Cauchy's Integral Formula.md",
-    "Analysis Pre-Lim/Complex Analysis/Past Pre-Lim Exams/January 2022.md",
-    "Untitled.md",
     "Analysis Pre-Lim/Images/Pasted image 20250626140707.png",
+    "Pasted image 20250626140707.png",
+    "Analysis Pre-Lim/Complex Analysis/Past Pre-Lim Exams/January 2022.md",
+    "Analysis Pre-Lim/Complex Analysis/Past Pre-Lim Exams/August 2021.md",
     "Pasted image 20250625130037.png",
     "Analysis Pre-Lim/Images/Pasted image 20250625123757.png",
     "Analysis Pre-Lim/Complex Analysis/Theorems/Cauchy's Inequality.md",
     "Analysis Pre-Lim/Complex Analysis/Theorems/Residue Theorem.md",
     "Analysis Pre-Lim/Images/Pasted image 20250620122017.png",
+    "Analysis Pre-Lim/Complex Analysis/Theorems/Cauchy's Integral Formula.md",
     "Analysis Pre-Lim/Complex Analysis/Theorems/Reverse Triangle Inequality.md",
     "Analysis Pre-Lim/Images/Pasted image 20250625002010.png",
     "Analysis Pre-Lim/Images/Pasted image 20250624232944.png",
     "Analysis Pre-Lim/Images/Pasted image 20250624143123.png",
     "Analysis Pre-Lim/Images/Pasted image 20250623224751.png",
     "Analysis Pre-Lim/Images/Pasted image 20250620184933.png",
-    "Analysis Pre-Lim/Images/Pasted image 20250620175235.png",
     "Analysis Pre-Lim/Complex Analysis/Theorems/Identity Theorem.md",
     "Analysis Pre-Lim/Complex Analysis/Theorems/Argument Principle.md",
     "Analysis Pre-Lim/Complex Analysis/Definitions/Pole.md",
