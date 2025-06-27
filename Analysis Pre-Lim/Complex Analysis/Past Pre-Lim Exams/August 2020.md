@@ -58,6 +58,3 @@ The function $f(z)=\psi(z)$ attains this bounding value since, as per the above 
 # #8
 ![[Pasted image 20250626140707.png]]
 
-
-
-say hi!
