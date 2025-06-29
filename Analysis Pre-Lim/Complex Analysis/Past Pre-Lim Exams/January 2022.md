@@ -29,7 +29,8 @@ by the [[Reverse Triangle Inequality]]. Thus, on the boundary of $D$, $|a-z|>|-e
 No, there does not.
 ***Proof***: Suppose such an $f$ did exist. Then $f$ admits a power series centered at $z=0$ on any $C_R$, $R>0$, with 
 $$ a_n = \frac{f^{(n)}(0)}{n!}
- $$ Moreover, by [[Cauchy's Integral Formula]] and [[Cauchy's Inequality]]
+ $$
+ Moreover, by [[Cauchy's Integral Formula]] and [[Cauchy's Inequality]], 
  $$\frac{f^{(n)}(0)}{n!}=\frac{1}{2\pi i}\int_{C_R}\frac{f(\zeta)}{\zeta^{n+1}}d\zeta 
  $$  Taking moduli,
 $$ \left|\frac{f^{(n)}(0)}{n!}\right|=\frac{1}{2\pi}\left|\int _{C_ R}\frac{f(\zeta)}{\zeta^{n+1}}d\zeta \right|\leq \frac{1}{2\pi}\frac{\sup _{C_ R}|f(\zeta)|}{R^{n+1}}\cdot 2\pi R \leq \frac{R^{\frac{2}{3}}}{R^n}

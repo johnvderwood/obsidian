@@ -36,7 +36,7 @@ On the other hand, we observe that, along $C_R^+$,
 $$
 |f(z)|=\frac{|e^{iaz}|}{|1+z^2|}\leq \frac{1}{R^2-1}\rightarrow 0 \  \text{ as} \ R\rightarrow\infty
 $$
-where we applied the reverse triangle inequality to the denominator and the fact that $|e^{iaz}|=|e^{iaRe^{i\theta}}|=|e^{iaR(\cos{\theta}+i\sin{\theta})}|= e^{-a\sin{\theta}}\leq 1$. Thus,
+where we applied the [[reverse triangle inequality]] to the denominator and the fact that $|e^{iaz}|=|e^{iaRe^{i\theta}}|=|e^{iaR(\cos{\theta}+i\sin{\theta})}|= e^{-a\sin{\theta}}\leq 1$. Thus,
 $$
 |I_2|\leq \pi R\frac{1}{R^2-1}\rightarrow 0 \ \text{ as } \ R\rightarrow\infty
 $$
@@ -61,7 +61,7 @@ Note that $f$ extends holomorphically to $g$ on the set $V=\mathbb{C}\setminus \
 $$
 \int _\gamma f(z)dz = \int_\gamma g(z)dz
 $$
-For $g$, we now perform residue calculations:
+For $g$, we now perform [[residue]] calculations:
 $$
 \text{res}_{-1}(g(z))= \lim_{z\rightarrow-1}(z+1)\frac{2}{(z-1)(z+1)}=-1
 $$
