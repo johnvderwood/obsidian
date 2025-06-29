@@ -160,22 +160,22 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "custom-sort:Toggle custom sorting": false,
       "github-sync:Sync with Remote": false,
-      "command-palette:Open command palette": false,
+      "custom-sort:Toggle custom sorting": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
   "active": "36b8985b6ee00755",
   "lastOpenFiles": [
-    "Analysis Pre-Lim/Images/Pasted image 20250626140707.png",
-    "Pasted image 20250626140707.png",
     "Analysis Pre-Lim/Complex Analysis/Past Pre-Lim Exams/January 2022.md",
     "Analysis Pre-Lim/Complex Analysis/Past Pre-Lim Exams/August 2020.md",
+    "Analysis Pre-Lim/Images/Pasted image 20250626140707.png",
+    "Pasted image 20250626140707.png",
     "Analysis Pre-Lim/Complex Analysis/Past Pre-Lim Exams/August 2021.md",
     "Pasted image 20250625130037.png",
     "Analysis Pre-Lim/Images/Pasted image 20250625123757.png",
@@ -189,7 +189,6 @@
     "Analysis Pre-Lim/Images/Pasted image 20250624143123.png",
     "Analysis Pre-Lim/Images/Pasted image 20250623224751.png",
     "Analysis Pre-Lim/Images/Pasted image 20250620184933.png",
-    "Analysis Pre-Lim/Images/Pasted image 20250620175235.png",
     "Analysis Pre-Lim/Complex Analysis/Theorems/Identity Theorem.md",
     "Analysis Pre-Lim/Complex Analysis/Theorems/Argument Principle.md",
     "Analysis Pre-Lim/Complex Analysis/Definitions/Pole.md",
