@@ -17,7 +17,7 @@ _________________________________________________________________
 # #2
 ![[Pasted image 20250625123757.png]]
 
-***Proof***: With the goal of employing [[Schwarz Lemma]], we want to funnel $f$ such that 0 is mapped to 0. To this end, we first consider a couple transformations:
+***Proof***: With the goal of employing [[Schwarz Lemma]], we want to funnel $f$ such that 0 is mapped to 0. To this end, we first consider a couple transformations related to the standard [[Automorphisms of the Unit Disc]]:
 $$
 \psi(z)=\psi_{\frac{1}{2}}(z)=\frac{\frac{1}{2}-z}{1-\overline{\frac{1}{2}}z}
 $$
@@ -58,9 +58,9 @@ The function $f(z)=\psi(z)$ attains this bounding value since, as per the above 
 # #8
 ![[Pasted image 20250626140707.png]]
 
-***Proof***: Suppose for a contradiction that for some $\epsilon >0$, there is no such $\delta$ with the stated property. First note that the holomorphic functions on the disc to the disc are a normal family as they are uniformly bounded in modulus by say 1. Thus for each $n$, we can select a representative from the family such that $|f_n(x)|<\frac{1}{n}$ and $|f(i/2)|\geq \epsilon$ for all $x\in [-1/2, 1/2]$. 
-Since the $f_n$ represent a sequence in a normal family, we have a uniformly convergent subsequence $f_{n_k}\rightarrow f\in \mathcal{F}$ on compact subsets of $\mathbb{D}$. But note that for pointwise $x\in[-1/2,1/2]$, $f _{n_ k}\rightarrow 0$. Thus, the function $f$ must be identically 0 on the interval $[-1/2,1/2]$. We note that $f$ inherits holomorphic properties as the uniform limit of $f_{n_k}$ on compact subsets of $\mathbb{D}$.  
-Then, moreover, $f$ satisfies the hypotheses of the identity theorem over the interval in question and thus must be the identically 0 function on all of $\mathbb{D}$. This then violates the fact that $f_{n_{k}}(i/2)\geq\epsilon$ for all $n_k$ with the uniform limit on say $\overline{D_{\frac{3}{4}}}$ being the 0 function. This contradiction completes the proof. $$\tag*{$\blacksquare$}$$
+***Proof***: Suppose for a contradiction that for some $\epsilon >0$, there is no such $\delta$ with the stated property. First note that the holomorphic functions on the disc to the disc are a [[Normal Family]] as they are uniformly bounded in modulus by say 1 by [[Montel's Theorem]]. Thus for each $n$, we can select a representative from the family such that $|f_n(x)|<\frac{1}{n}$ and $|f(i/2)|\geq \epsilon$ for all $x\in [-1/2, 1/2]$. 
+Since the $f_n$ represent a sequence in a [[Normal Family]], we have a uniformly convergent subsequence $f_{n_k}\rightarrow f$ on compact subsets of $\mathbb{D}$. But note that for pointwise $x\in[-1/2,1/2]$, $f _{n_ k}\rightarrow 0$. Thus, the function $f$ must be identically 0 on the interval $[-1/2,1/2]$. We note that $f$ inherits holomorphic properties as the uniform limit of $f_{n_k}$ on compact subsets of $\mathbb{D}$.  
+Then, moreover, $f$ satisfies the hypotheses of the [[Identity Theorem]] over the interval in question and thus must be the identically 0 function on all of $\mathbb{D}$. This then violates the fact that $f_{n_{k}}(i/2)\geq\epsilon$ for all $n_k$ with the uniform limit on say $\overline{D_{\frac{3}{4}}}$ being the 0 function, which is clearly in $\mathcal{F}$ with the needed property. This contradiction completes the proof. $$\tag*{$\blacksquare$}$$
 
 _________________________________________________________________ 
 

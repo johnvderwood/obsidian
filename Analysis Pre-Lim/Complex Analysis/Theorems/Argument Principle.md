@@ -5,3 +5,5 @@ Then we have:
 $$
 \frac{1}{2\pi i}\int_\gamma \frac{f'(z)}{f(z)}dz = \# \text{ zeros in the interior of $\gamma$} - \# \text{ poles in the interior of $\gamma$}
 $$
+
+[Stein Link](https://www.fing.edu.uy/~cerminar/Complex_Analysis.pdf#page=109)
