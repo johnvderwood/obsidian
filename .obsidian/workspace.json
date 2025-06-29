@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Analysis Pre-Lim/Complex Analysis/Theorems/Riemann Mapping Theorem.md",
+                "file": "Analysis Pre-Lim/Complex Analysis/Theorems/Identity Theorem.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Riemann Mapping Theorem"
+              "title": "Identity Theorem"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byCreatedTimeReverse",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis Pre-Lim/Complex Analysis/Theorems/Riemann Mapping Theorem.md",
+                "file": "Analysis Pre-Lim/Complex Analysis/Theorems/Identity Theorem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Riemann Mapping Theorem"
+              "title": "Backlinks for Identity Theorem"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Analysis Pre-Lim/Complex Analysis/Theorems/Riemann Mapping Theorem.md",
+                "file": "Analysis Pre-Lim/Complex Analysis/Theorems/Identity Theorem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Riemann Mapping Theorem"
+              "title": "Outgoing links from Identity Theorem"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Analysis Pre-Lim/Complex Analysis/Theorems/Riemann Mapping Theorem.md",
+                "file": "Analysis Pre-Lim/Complex Analysis/Theorems/Identity Theorem.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Riemann Mapping Theorem"
+              "title": "Outline of Identity Theorem"
             }
           }
         ]
@@ -171,6 +171,17 @@
   },
   "active": "36b8985b6ee00755",
   "lastOpenFiles": [
+    "Analysis Pre-Lim/Complex Analysis/Past Pre-Lim Exams/January 2019.md",
+    "Untitled.canvas",
+    "Analysis Pre-Lim/Complex Analysis/Past Pre-Lim Exams/January 2022.md",
+    "Analysis Pre-Lim/Complex Analysis/Past Pre-Lim Exams/August 2021.md",
+    "Analysis Pre-Lim/Complex Analysis/Past Pre-Lim Exams/August 2020.md",
+    "Analysis Pre-Lim/Images/Pasted image 20250629192521.png",
+    "Analysis Pre-Lim/Images/Pasted image 20250629192456.png",
+    "Analysis Pre-Lim/Images/Pasted image 20250629192420.png",
+    "Analysis Pre-Lim/Images/Pasted image 20250629192343.png",
+    "Analysis Pre-Lim/Images/Pasted image 20250629192256.png",
+    "Analysis Pre-Lim/Complex Analysis/Theorems/Riemann Mapping Theorem.md",
     "Analysis Pre-Lim/Complex Analysis/Theorems/Schwarz Lemma.md",
     "Analysis Pre-Lim/Complex Analysis/Theorems/Rouche's Theorem.md",
     "Analysis Pre-Lim/Complex Analysis/Theorems/Argument Principle.md",
@@ -179,13 +190,9 @@
     "Analysis Pre-Lim/Complex Analysis/Theorems/Maximum Modulus Principle.md",
     "Analysis Pre-Lim/Complex Analysis/Theorems/Identity Theorem.md",
     "Analysis Pre-Lim/Complex Analysis/Theorems/Montel's Theorem.md",
-    "Analysis Pre-Lim/Complex Analysis/Past Pre-Lim Exams/January 2022.md",
-    "Analysis Pre-Lim/Complex Analysis/Past Pre-Lim Exams/August 2020.md",
-    "Analysis Pre-Lim/Complex Analysis/Past Pre-Lim Exams/August 2021.md",
     "Analysis Pre-Lim/Complex Analysis/Theorems/Open Mapping Theorem.md",
     "Analysis Pre-Lim/Complex Analysis/Theorems/Residue Theorem.md",
     "Analysis Pre-Lim/Complex Analysis/Theorems/Reverse Triangle Inequality.md",
-    "Analysis Pre-Lim/Complex Analysis/Theorems/Riemann Mapping Theorem.md",
     "Analysis Pre-Lim/Complex Analysis/Definitions/Residue.md",
     "Analysis Pre-Lim/Complex Analysis/Definitions/Riemann Sphere.md",
     "Analysis Pre-Lim/Complex Analysis/Definitions/Pole.md",
@@ -196,11 +203,6 @@
     "Pasted image 20250626140707.png",
     "Pasted image 20250625130037.png",
     "Analysis Pre-Lim/Images/Pasted image 20250625123757.png",
-    "Analysis Pre-Lim/Images/Pasted image 20250620122017.png",
-    "Analysis Pre-Lim/Images/Pasted image 20250625002010.png",
-    "Analysis Pre-Lim/Images/Pasted image 20250624232944.png",
-    "Analysis Pre-Lim/Images/Pasted image 20250624143123.png",
-    "Analysis Pre-Lim/Images/Pasted image 20250623224751.png",
-    "Analysis Pre-Lim/Images/Pasted image 20250620184933.png"
+    "Analysis Pre-Lim/Images/Pasted image 20250620122017.png"
   ]
 }

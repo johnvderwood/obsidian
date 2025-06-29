@@ -1,6 +1,7 @@
 # #1
 ![[Pasted image 20250620184933.png]]
 
+***Proof***: 
 # #2
 ![[Pasted image 20250624232944.png]]
 
