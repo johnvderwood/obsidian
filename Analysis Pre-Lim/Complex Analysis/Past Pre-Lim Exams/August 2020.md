@@ -54,7 +54,7 @@ $$
 |f'(1/2)|\leq \frac{4(1-|f(1/2)|^2)}{3}\leq \frac{4}{3}
 $$
 The function $f(z)=\psi(z)$ attains this bounding value since, as per the above formula for $\psi_\alpha'(z)$, $\psi_{1/2}'(1/2)=$ 
-
+Needs to be fixed. My version of $\psi_\alpha$ had a backwards numerator.
 # #8
 ![[Pasted image 20250626140707.png]]
 
