@@ -9,7 +9,7 @@ Explicitly then, we are computing:
 $$
 \int_{\gamma}f(z)dz = \sum_{i=1}^4
 \int_{\gamma_{i}}f(z)dz$$
-Note that, since $f$ has one simple pole at $z=i$ and is otherwise holomorphic on and within the selected contour (with a branch cut choice along the negative imaginary axis; angles from $[-\frac{\pi}{2},\frac{3\pi}{2})$), by the Residue Theorem, we have
+Note that, since $f$ has one simple [[pole]] at $z=i$ and is otherwise holomorphic on and within the selected contour (with a branch cut choice along the negative imaginary axis; angles from $[-\frac{\pi}{2},\frac{3\pi}{2})$), by the [[Residue Theorem]], we have
 $$
 \int _{\gamma}f(z)dz = 2\pi i\lim_{ z \to i } (z-i)\frac{\sqrt{ z }}{(z-i)(z+i)}
 $$
