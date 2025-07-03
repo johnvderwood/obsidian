@@ -38,6 +38,31 @@ $$
 \left|\frac{\sqrt{ r e^{i\theta} }}{(1+r e^{i\theta})^2}r i e^{i\theta}\right|=\left|\frac{r^{3/2}}{(1+r e^{i\theta})^2}\right|=\frac{|r^{3/2}|}{|1+r e^{i\theta}|^2}\leq |r^{3/2}|\to 0 \ \text{ as $r\to 0$}
 $$
 
+Next, we note that along $\gamma_{2}$, we can perform a simple substitution of $z=-x$:
+$$
+\int _{\gamma_{2}} f(z) dz = \int _{-R}^{-r}f(z)dz = \int_{R}^r -f(-x)dx = \int _{r}^R \frac{\sqrt{ -x }}{1+x^2}dx= i \int_{r}^R \frac{\sqrt{ x }}{1+x^2}dx
+$$
+where the integrand is now fully real valued. Similarly,
+
+$$
+\int _{\gamma_{3}} f(z)dz = \int_{r}^R \frac{\sqrt{ x }}{1+x^2}dx
+$$
+We start by collecting these for finite and fixed $R,r$:
+
+$$
+\int _{\gamma} f(z)dz = \int_{0}^{2\pi} \frac{R^{3/2}\sqrt{ e^{i\theta} }ie^{i\theta}}{(1+R e^{i\theta})^2}d\theta + i \int _{r}^R \frac{\sqrt{ x }}{1+x^2}dx + \int_{0}^{2\pi}  \frac{\sqrt{ r e^{i\theta} }}{(1+r e^{i\theta})^2}r i e^{i\theta}d\theta + \int_{r}^R \frac{\sqrt{ x }}{1+x^2}dx 
+$$
+Sending $R$ to $\infty$ and $r$ to 0,
+
+$$
+\frac{\pi \sqrt{ 2 }}{2} = i\int_{0}^\infty \frac{\sqrt{ x }}{1+x^2}dx + \int_{0}^\infty \frac{\sqrt{ x }}{1+x^2}dx
+$$
+Taking real parts on both sides then, we find that 
+
+$$
+\frac{\pi \sqrt{ 2 }}{2} = \int_{0}^{\infty} \frac{\sqrt{ x }}{1+x^2}dx
+$$
+$$\tag*{$\blacksquare$}$$ 
 _________________________________________________________________ 
 
 # #3 
