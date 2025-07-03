@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 339.5
   },
   "right": {
     "id": "2aac12bd16a61f7d",
@@ -157,8 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 276.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,13 +170,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "36b8985b6ee00755",
+  "active": "1af581874be06ab1",
   "lastOpenFiles": [
-    "Pasted image 20250702183416.png",
-    "Analysis Pre-Lim/Complex Analysis/Past Pre-Lim Exams/August 2020.md",
     "Analysis Pre-Lim/Complex Analysis/Definitions/Residue.md",
     "Analysis Pre-Lim/Complex Analysis/Theorems/Residue Theorem.md",
     "Analysis Pre-Lim/Complex Analysis/Past Pre-Lim Exams/January 2019.md",
+    "Analysis Pre-Lim/Images/Pasted image 20250702183416.png",
+    "Analysis Pre-Lim/Complex Analysis/Past Pre-Lim Exams/August 2020.md",
     "Analysis Pre-Lim/Complex Analysis/Past Pre-Lim Exams/August 2021.md",
     "Analysis Pre-Lim/Complex Analysis/Past Pre-Lim Exams/January 2022.md",
     "Analysis Pre-Lim/Complex Analysis/Theorems/Maximum Modulus Principle.md",
@@ -206,7 +204,6 @@
     "Analysis Pre-Lim/Images/Pasted image 20250626140707.png",
     "Pasted image 20250626140707.png",
     "Pasted image 20250625130037.png",
-    "Analysis Pre-Lim/Images/Pasted image 20250625123757.png",
-    "Analysis Pre-Lim/Images/Pasted image 20250620122017.png"
+    "Analysis Pre-Lim/Images/Pasted image 20250625123757.png"
   ]
 }
