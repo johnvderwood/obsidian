@@ -83,15 +83,15 @@ _________________________________________________________________
 # #5 
 ![[Pasted image 20250629192420.png]]
 
-***Proof***: We continue via a contradiction argument. To begin, assume $f(\mathbb{H})$ is not a dense subset. Under the given conditions, $f$ satisfies the hypotheses of the [[Schwarz Reflection Principle]]. That is, $f$ extends to a function holomorphic on the entirety of $\mathbb{C}$. For simplicity, we replace this extension with the former name we gave $f$. By non-density, there exists $w\in \mathbb{H}$ and a $\delta >0$ such that:
+***Proof***: We continue via a contradiction argument. To begin, assume $f(\mathbb{H})$ is not a dense subset. Under the given conditions, $f$ satisfies the hypotheses of the [[Schwarz Reflection Principle]]. That is, $f$ extends to a function holomorphic on the entirety of $\mathbb{C}$. For simplicity, we replace this extension with the former name we gave: $f$. By non-density, there exists $w\in \mathbb{H}$ and a $\delta >0$ such that:
 $$
 |f(z)-w|>\delta \ \ \ \ \ \ \ \ \forall z\in\mathbb{H}
 $$
-Under this scenario, $f-w$ stays away from 0 since it is bounded below by $\delta$. Thus, $\frac{1}{f(z)-w}$ is nowhere vanishing and thus holomorphic on $\mathbb{C}$. Note that this remains valid for the extension since the extension is defined via $f(\overline{z}) := \overline{f(z)}$ so that the extension admits no new values in the upper half-plane. Moreover, $f-w$ can be easily bounded via the above:
+Under this scenario, $f-w$ stays away from 0 since it is bounded below by $\delta$. Thus, $\frac{1}{f(z)-w}$ is nowhere vanishing and thus holomorphic on $\mathbb{C}$. Note that this remains valid for the extension since the extension is defined via $f(\overline{z}) := \overline{f(z)}$ so that the extension admits no new values in the upper half-plane. Moreover, $\frac{1}{f-w}$ can be easily bounded via the above:
 $$
 \frac{1}{|f(z)-w|}\leq \frac{1}{\delta}<\infty
 $$
-But now $f-w$ is bounded and entire, implying that it is constant by [[Liouville's Theorem]]. But $f-w$ is constant $\iff$ $f$ is constant $\iff$ the original non-extended $f$ is constant. However, if the original $f$ were constant, it must be a real constant by (iii). But this is contradictory for any $z\in \mathbb{H}$ as (iv) puts that function value in the upper half plane, omitting the real line. This contradiction forces the original $f$ to have a dense image in $\mathbb{H}$. $$\tag*{$\blacksquare$}$$  
+But now $\frac{1}{f-w}$ is bounded and entire, implying that it is constant by [[Liouville's Theorem]]. But $\frac{1}{f-w}$ is constant $\iff$ $f$ is constant $\iff$ the original non-extended $f$ is constant. However, if the original $f$ were constant, it must be a real constant by (iii). But this is contradictory for any $z\in \mathbb{H}$ as (iv) puts that function value in the upper half plane, omitting the real line. This contradiction forces the original $f$ to have a dense image in $\mathbb{H}$. $$\tag*{$\blacksquare$}$$  
 _________________________________________________________________ 
 
 # #7
@@ -106,6 +106,10 @@ _________________________________________________________________
 # #9
 ![[Pasted image 20250629192521.png]]
 
-***Proof***: 
+***Proof***: Consider the family of functions $\mathcal{F}:=\{f(z), f(z+1), f(z+2),... \}$. Since shifting the domain $G$ returns the same domain, all of these functions remain analytic and maintain the same uniform bound from $|f(z)|\leq M$ given under the assumptions. Thus, this family is uniformly bounded and, by Montel's Theorem, is then a normal family. Let $x\in \mathbb{R}$, and denote $f_n(z)=f(z+n)$. We have that $f_n(z)$ is a sequence in the normal family $\mathcal{F}$, and therefore, it must have a convergent subsequence $f_{n_k}(z)$. By $f _{n_ k}(x)\to c$ by the hypothesis, $f _{n_ k}\to c$ on the real line. But then the limiting function of the $f_{n_k}$, $c$ is holomorphic as the locally uniform limit of holomorphic functions. It then satisfies the Identity Theorem on $G$ so that it must be the constant function $c$ on the whole of $G$. The necessary limit then follows:
+$$
+\lim_{ x \to +\infty }  f(z+x)=c \ \ \ \ \text{for all } z\in G
+$$
+$$\tag*{$\blacksquare$}$$ 
 
 _________________________________________________________________ 
