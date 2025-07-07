@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Analysis Pre-Lim/Complex Analysis/Past Pre-Lim Exams/January 2019.md",
+                "file": "Analysis Pre-Lim/Complex Analysis/Past Pre-Lim Exams/August 2019.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "January 2019"
+              "title": "August 2019"
             }
           }
         ]
@@ -165,13 +165,17 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "custom-sort:Toggle custom sorting": false,
+      "github-sync:Sync with Remote": false
     }
   },
-  "active": "7c74624a802d9d46",
+  "active": "1af581874be06ab1",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Analysis Pre-Lim/Images/Pasted image 20250707191806.png",
     "Analysis Pre-Lim/Complex Analysis/Past Pre-Lim Exams/January 2019.md",
+    "Analysis Pre-Lim/Complex Analysis/Past Pre-Lim Exams/August 2019.md",
+    "Untitled.md",
     "Analysis Pre-Lim/Complex Analysis/Theorems/Liouville's Theorem.md",
     "Analysis Pre-Lim/Complex Analysis/Past Pre-Lim Exams/August 2020.md",
     "Analysis Pre-Lim/Complex Analysis/Past Pre-Lim Exams/August 2021.md",
