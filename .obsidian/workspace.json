@@ -6,6 +6,7 @@
       {
         "id": "a4d3413e52586e3f",
         "type": "tabs",
+        "dimension": 73.75328083989501,
         "children": [
           {
             "id": "36b8985b6ee00755",
@@ -13,12 +14,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Analysis Pre-Lim/Complex Analysis/Past Pre-Lim Exams/August 2017.md",
+                "file": "Analysis Pre-Lim/Complex Analysis/Past Pre-Lim Exams/August 2021.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "August 2017"
+              "title": "August 2021"
+            }
+          }
+        ]
+      },
+      {
+        "id": "741a097c73606bd7",
+        "type": "tabs",
+        "dimension": 26.246719160104988,
+        "children": [
+          {
+            "id": "939c2791244a1994",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -78,7 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 339.5
+    "width": 302.5
   },
   "right": {
     "id": "2aac12bd16a61f7d",
@@ -94,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis Pre-Lim/Complex Analysis/Past Pre-Lim Exams/January 2019.md",
+                "file": "Analysis Pre-Lim/Complex Analysis/Past Pre-Lim Exams/August 2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +122,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for January 2019"
+              "title": "Backlinks for August 2021"
             }
           },
           {
@@ -113,12 +131,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Analysis Pre-Lim/Complex Analysis/Past Pre-Lim Exams/August 2017.md",
+                "file": "Analysis Pre-Lim/Complex Analysis/Past Pre-Lim Exams/August 2021.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from August 2017"
+              "title": "Outgoing links from August 2021"
             }
           },
           {
@@ -142,21 +160,22 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Analysis Pre-Lim/Complex Analysis/Past Pre-Lim Exams/January 2019.md",
+                "file": "Analysis Pre-Lim/Complex Analysis/Past Pre-Lim Exams/August 2021.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of January 2019"
+              "title": "Outline of August 2021"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 276.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,19 +189,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1af581874be06ab1",
+  "active": "36b8985b6ee00755",
   "lastOpenFiles": [
+    "Analysis Pre-Lim/Complex Analysis/Past Pre-Lim Exams/January 2022.md",
+    "Analysis Pre-Lim/Complex Analysis/Past Pre-Lim Exams/August 2018.md",
+    "Analysis Pre-Lim/Complex Analysis/Past Pre-Lim Exams/January 2019.md",
+    "Analysis Pre-Lim/Complex Analysis/Past Pre-Lim Exams/August 2017.md",
+    "Analysis Pre-Lim/Complex Analysis/Past Pre-Lim Exams/August 2020.md",
     "Analysis Pre-Lim/Images/Pasted image 20250716085949.png",
     "Analysis Pre-Lim/Images/Pasted image 20250716085926.png",
     "Analysis Pre-Lim/Images/Pasted image 20250716085857.png",
     "Analysis Pre-Lim/Images/Pasted image 20250716085830.png",
-    "Analysis Pre-Lim/Complex Analysis/Past Pre-Lim Exams/August 2018.md",
-    "Analysis Pre-Lim/Complex Analysis/Past Pre-Lim Exams/August 2017.md",
-    "Analysis Pre-Lim/Complex Analysis/Past Pre-Lim Exams/January 2019.md",
     "Analysis Pre-Lim/Complex Analysis/Definitions/Cayley Transformation.md",
     "Analysis Pre-Lim/Complex Analysis/Definitions/Automorphisms of the Unit Disc.md",
     "Analysis Pre-Lim/Complex Analysis/Theorems/Schwarz Lemma.md",
-    "Analysis Pre-Lim/Complex Analysis/Past Pre-Lim Exams/August 2020.md",
     "Untitled.md",
     "Analysis Pre-Lim/Images/Pasted image 20250708124040.png",
     "Analysis Pre-Lim/Images/Pasted image 20250708124012.png",
@@ -195,7 +215,6 @@
     "Analysis Pre-Lim/Complex Analysis/Theorems/Residue Theorem.md",
     "Analysis Pre-Lim/Images/Pasted image 20250702183416.png",
     "Analysis Pre-Lim/Complex Analysis/Past Pre-Lim Exams/August 2021.md",
-    "Analysis Pre-Lim/Complex Analysis/Past Pre-Lim Exams/January 2022.md",
     "Analysis Pre-Lim/Complex Analysis/Theorems/Maximum Modulus Principle.md",
     "Analysis Pre-Lim/Complex Analysis/Theorems/Open Mapping Theorem.md",
     "Analysis Pre-Lim/Complex Analysis/Theorems/Rouche's Theorem.md",
@@ -207,7 +226,6 @@
     "Analysis Pre-Lim/Complex Analysis/Theorems/Argument Principle.md",
     "Analysis Pre-Lim/Complex Analysis/Definitions/Normal Family.md",
     "Analysis Pre-Lim/Complex Analysis/Definitions/Riemann Sphere.md",
-    "Untitled.canvas",
-    "Analysis Pre-Lim/Images/Pasted image 20250629192521.png"
+    "Untitled.canvas"
   ]
 }
