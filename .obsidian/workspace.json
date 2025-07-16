@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Analysis Pre-Lim/Complex Analysis/Past Pre-Lim Exams/January 2019.md",
+                "file": "Analysis Pre-Lim/Complex Analysis/Past Pre-Lim Exams/August 2017.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "January 2019"
+              "title": "August 2017"
             }
           }
         ]
@@ -113,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Analysis Pre-Lim/Complex Analysis/Past Pre-Lim Exams/August 2017.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from August 2017"
             }
           },
           {
@@ -169,23 +170,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1af581874be06ab1",
+  "active": "36b8985b6ee00755",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Pasted image 20250716085949.png",
+    "Pasted image 20250716085926.png",
+    "Pasted image 20250716085857.png",
+    "Pasted image 20250716085830.png",
+    "Analysis Pre-Lim/Complex Analysis/Past Pre-Lim Exams/August 2018.md",
+    "Analysis Pre-Lim/Complex Analysis/Past Pre-Lim Exams/August 2017.md",
     "Analysis Pre-Lim/Complex Analysis/Past Pre-Lim Exams/January 2019.md",
+    "Analysis Pre-Lim/Complex Analysis/Definitions/Cayley Transformation.md",
+    "Analysis Pre-Lim/Complex Analysis/Definitions/Automorphisms of the Unit Disc.md",
+    "Analysis Pre-Lim/Complex Analysis/Theorems/Schwarz Lemma.md",
+    "Analysis Pre-Lim/Complex Analysis/Past Pre-Lim Exams/August 2020.md",
+    "Untitled.md",
     "Analysis Pre-Lim/Images/Pasted image 20250708124040.png",
     "Analysis Pre-Lim/Images/Pasted image 20250708124012.png",
     "Analysis Pre-Lim/Images/Pasted image 20250708123952.png",
     "Analysis Pre-Lim/Images/Pasted image 20250708123913.png",
     "Analysis Pre-Lim/Images/Pasted image 20250707191806.png",
-    "Analysis Pre-Lim/Complex Analysis/Past Pre-Lim Exams/August 2018.md",
     "Analysis Pre-Lim/Complex Analysis/Theorems/Montel's Theorem.md",
-    "Analysis Pre-Lim/Complex Analysis/Definitions/Cayley Transformation.md",
     "Analysis Pre-Lim/Complex Analysis/Theorems/Liouville's Theorem.md",
     "Analysis Pre-Lim/Complex Analysis/Definitions/Residue.md",
     "Analysis Pre-Lim/Complex Analysis/Theorems/Residue Theorem.md",
     "Analysis Pre-Lim/Images/Pasted image 20250702183416.png",
-    "Analysis Pre-Lim/Complex Analysis/Past Pre-Lim Exams/August 2020.md",
     "Analysis Pre-Lim/Complex Analysis/Past Pre-Lim Exams/August 2021.md",
     "Analysis Pre-Lim/Complex Analysis/Past Pre-Lim Exams/January 2022.md",
     "Analysis Pre-Lim/Complex Analysis/Theorems/Maximum Modulus Principle.md",
@@ -193,19 +201,13 @@
     "Analysis Pre-Lim/Complex Analysis/Theorems/Rouche's Theorem.md",
     "Analysis Pre-Lim/Complex Analysis/Theorems/Riemann Mapping Theorem.md",
     "Analysis Pre-Lim/Complex Analysis/Theorems/Cauchy's Inequality.md",
-    "Analysis Pre-Lim/Complex Analysis/Theorems/Schwarz Lemma.md",
     "Analysis Pre-Lim/Complex Analysis/Theorems/Reverse Triangle Inequality.md",
     "Analysis Pre-Lim/Complex Analysis/Theorems/Identity Theorem.md",
     "Analysis Pre-Lim/Complex Analysis/Theorems/Cauchy's Integral Formula.md",
     "Analysis Pre-Lim/Complex Analysis/Theorems/Argument Principle.md",
     "Analysis Pre-Lim/Complex Analysis/Definitions/Normal Family.md",
-    "Analysis Pre-Lim/Complex Analysis/Definitions/Automorphisms of the Unit Disc.md",
     "Analysis Pre-Lim/Complex Analysis/Definitions/Riemann Sphere.md",
-    "Analysis Pre-Lim/Complex Analysis/Definitions/Pole.md",
     "Untitled.canvas",
-    "Analysis Pre-Lim/Images/Pasted image 20250629192521.png",
-    "Analysis Pre-Lim/Images/Pasted image 20250629192456.png",
-    "Analysis Pre-Lim/Images/Pasted image 20250629192420.png",
-    "Analysis Pre-Lim/Images/Pasted image 20250629192343.png"
+    "Analysis Pre-Lim/Images/Pasted image 20250629192521.png"
   ]
 }
