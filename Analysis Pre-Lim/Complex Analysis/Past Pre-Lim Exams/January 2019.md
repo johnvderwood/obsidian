@@ -1,3 +1,4 @@
+View all problems [[Analysis Exams.pdf#page=12|here]]
 # #1
 ![[Pasted image 20250629192256.png]]
 
@@ -121,7 +122,7 @@ _________________________________________________________________
 # #9
 ![[Pasted image 20250629192521.png]]
 
-***Proof***: Consider the family of functions $\mathcal{F}:=\{f(z), f(z+1), f(z+2),... \}$. Since shifting the domain $G$ returns the same domain, all of these functions remain analytic and maintain the same uniform bound from $|f(z)|\leq M$ given under the assumptions. Thus, this family is uniformly bounded and, by [[Montel's Theorem]], is then a [[normal family]]. Let $x\in \mathbb{R}$, and denote $f_n(z)=f(z+n)$. We have that $f_n(z)$ is a sequence in the normal family $\mathcal{F}$, and therefore, it must have a convergent subsequence $f_{n_k}(z)$. By $f _{n_ k}(x)\to c$ by the hypothesis, $f _{n_ k}\to c$ on the real line. But then the limiting function of the $f_{n_k}$, $c$ is holomorphic as the locally uniform limit of holomorphic functions. It then satisfies the [[Identity Theorem]] on $G$ so that it must be the constant function $c$ on the whole of $G$. The necessary limit then follows:
+***Proof***: Consider the family of functions $\mathcal{F}:=\{f(z), f(z+1), f(z+2),... \}$. Since shifting the domain $G$ returns the same domain, all of these functions remain analytic and maintain the same uniform bound from $|f(z)|\leq M$ given under the assumptions. Thus, this family is uniformly bounded and, by [[Montel's Theorem]], is then a [[normal family]]. Let $x\in \mathbb{R}$, and denote $f_n(z)=f(z+n)$. We have that $f_n(z)$ is a sequence in the [[normal family]] $\mathcal{F}$, and therefore, it must have a convergent subsequence $f_{n_k}(z)$. By $f _{n_ k}(x)\to c$ by the hypothesis, $f _{n_ k}\to c$ on the real line. But then the limiting function of the $f_{n_k}$, $c$ is holomorphic as the locally uniform limit of holomorphic functions. It then satisfies the [[Identity Theorem]] on $G$ so that it must be the constant function $c$ on the whole of $G$. The necessary limit then follows:
 $$
 \lim_{ x \to +\infty }  f(z+x)=c \ \ \ \ \text{for all } z\in G
 $$

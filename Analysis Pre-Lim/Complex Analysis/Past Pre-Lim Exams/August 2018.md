@@ -1,3 +1,4 @@
+View all problems [[Analysis Exams.pdf#page=12|here]]
 # #1
 ![[Pasted image 20250707191806.png]]
 
@@ -60,6 +61,6 @@ f\left( \frac{1}{z} \right)=\frac{a _{-1}}{\frac{1}{z}-i}+a_{0}+a _{1}\left( \fr
 $$
 Now, notice that if $a_n\neq0$ for $n\geq2$, then the order of the [[pole]] at infinity would instead be $n$ rather than the 1 implied by it being a simple [[pole]]. Thus, it follows that $a_n=0$ for $n\geq2$. Moreover, $a_{-1}, \ a_1\neq0$ in particular since these terms are necessary to make the poles. Thus, $a_0$ may be any constant complex number and we arrive at the final form for $f$:
 $$
-f(z)=\frac{a _{-1}}{z-i}+a_{0}+a _{1}\left( \frac{1}{z} \right) \ \ \ \ \ \ a_{-1}, \ a_{1}\neq 0
+f(z)=\frac{a _{-1}}{z-i}+a_{0}+a _{1}{z} \ \ \ \ \ \ a_{-1}, \ a_{1}\neq 0
 $$
 $$\tag*{$\blacksquare$}$$ _________________________________________________________________ 

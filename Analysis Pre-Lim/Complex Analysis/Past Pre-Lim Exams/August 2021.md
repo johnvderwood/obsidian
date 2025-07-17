@@ -1,3 +1,4 @@
+View all problems [[Analysis Exams.pdf#page=10&selection=0,29,0,39|here]]
 # #1
 ![[Pasted image 20250620122017.png]]
 
