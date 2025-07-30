@@ -11,14 +11,12 @@
             "id": "7c74624a802d9d46",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Analysis Pre-Lim/Complex Analysis/Past Pre-Lim Exams/August 2018.md",
-                "mode": "source",
-                "source": false
+                "file": "Analysis Pre-Lim/Analysis Exams.pdf"
               },
-              "icon": "lucide-file",
-              "title": "August 2018"
+              "icon": "lucide-file-text",
+              "title": "Analysis Exams"
             }
           }
         ]
@@ -172,24 +170,29 @@
   },
   "active": "7c74624a802d9d46",
   "lastOpenFiles": [
-    "Analysis Pre-Lim/Complex Analysis/Past Pre-Lim Exams/January 2019.md",
+    "Analysis Pre-Lim/Complex Analysis/Past Pre-Lim Exams/August 2024.md",
+    "Analysis Pre-Lim/Images/Pasted image 20250725231634.png",
+    "Analysis Pre-Lim/Analysis Exams.pdf",
+    "Analysis Pre-Lim/Complex Analysis/Theorems/Schwarz Lemma.md",
+    "Analysis Pre-Lim/Images/Pasted image 20250725224546.png",
+    "Analysis Pre-Lim/Complex Analysis/Past Pre-Lim Exams/January 2022.md",
+    "Analysis Pre-Lim/Complex Analysis/Past Pre-Lim Exams/August 2017.md",
     "Analysis Pre-Lim/Complex Analysis/Past Pre-Lim Exams/August 2018.md",
+    "Untitled.md",
+    "Analysis Pre-Lim/Images/Pasted image 20250716085949.png",
+    "Analysis Pre-Lim/Images/Pasted image 20250716085926.png",
+    "Analysis Pre-Lim/Images/Pasted image 20250716085857.png",
+    "Analysis Pre-Lim/Images/Pasted image 20250716085830.png",
+    "Analysis Pre-Lim/Complex Analysis/Theorems/Symmetry Principle.md",
+    "Analysis Pre-Lim/Complex Analysis/Theorems/Schwarz Reflection Principle.md",
+    "Analysis Pre-Lim/Complex Analysis/Past Pre-Lim Exams/January 2019.md",
     "Analysis Pre-Lim/Images/Pasted image 20250708124040.png",
     "Analysis Pre-Lim/Images/Pasted image 20250702183416.png",
-    "Untitled.md",
     "Analysis Pre-Lim/Images/Pasted image 20250708124012.png",
     "Analysis Pre-Lim/Images/Pasted image 20250708123952.png",
-    "Analysis Pre-Lim/Images/Pasted image 20250708123913.png",
-    "Analysis Pre-Lim/Images/Pasted image 20250707191806.png",
     "Analysis Pre-Lim/Complex Analysis/Theorems/Liouville's Theorem.md",
     "Analysis Pre-Lim/Complex Analysis/Past Pre-Lim Exams/August 2020.md",
     "Analysis Pre-Lim/Complex Analysis/Past Pre-Lim Exams/August 2021.md",
-    "Analysis Pre-Lim/Complex Analysis/Past Pre-Lim Exams/January 2022.md",
-    "Analysis Pre-Lim/Images/Pasted image 20250629192521.png",
-    "Analysis Pre-Lim/Images/Pasted image 20250629192456.png",
-    "Analysis Pre-Lim/Images/Pasted image 20250629192420.png",
-    "Analysis Pre-Lim/Images/Pasted image 20250629192343.png",
-    "Analysis Pre-Lim/Complex Analysis/Theorems/Schwarz Lemma.md",
     "Analysis Pre-Lim/Complex Analysis/Theorems/Rouche's Theorem.md",
     "Analysis Pre-Lim/Complex Analysis/Theorems/Riemann Mapping Theorem.md",
     "Analysis Pre-Lim/Complex Analysis/Definitions/Residue.md",
@@ -202,7 +205,6 @@
     "Analysis Pre-Lim/Complex Analysis/Theorems/Identity Theorem.md",
     "Analysis Pre-Lim/Complex Analysis/Theorems/Argument Principle.md",
     "Analysis Pre-Lim/Complex Analysis/Definitions/Pole.md",
-    "Analysis Pre-Lim/Complex Analysis/Definitions/Riemann Sphere.md",
-    "Analysis Pre-Lim/Complex Analysis/Definitions/Cayley Transformation.md"
+    "Analysis Pre-Lim/Complex Analysis/Definitions/Riemann Sphere.md"
   ]
 }

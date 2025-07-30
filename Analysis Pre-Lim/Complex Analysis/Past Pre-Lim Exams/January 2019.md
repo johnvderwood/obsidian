@@ -1,3 +1,4 @@
+View all problems [[Analysis Exams.pdf#page=12|here]]
 # #1
 ![[Pasted image 20250629192256.png]]
 
@@ -68,7 +69,7 @@ _________________________________________________________________
 # #3 
 ![[Pasted image 20250629192343.png]]
 
-***Proof***: We start by assuming $f$ is non-constant toward the goal of showing that $A(r)$ must then be strictly increasing. Under this primary condition, we now show $A(r)$ is strictly increasing by way of contradiction. That is, we suppose that for some $0\leq r<R<1$, $A(r)\geq A(R)$. Observe that by $f$ holomorphic on $\mathbb{D}$, the function $e^{f(z)}$ is then also holomorphic on the same domain. Thus, $e^{f(z)}$ observes the Maximum Modulus Principle. Furthermore, we may find the modulus of this function, call it $g$, via:
+***Proof***: We start by assuming $f$ is non-constant toward the goal of showing that $A(r)$ must then be strictly increasing. Under this primary condition, we now show $A(r)$ is strictly increasing by way of contradiction. That is, we suppose that for some $0\leq r<R<1$, $A(r)\geq A(R)$. Observe that by $f$ holomorphic on $\mathbb{D}$, the function $e^{f(z)}$ is then also holomorphic on the same domain. Thus, $e^{f(z)}$ observes the [[Maximum Modulus Principle]]. Furthermore, we may find the modulus of this function, call it $g$, via:
 $$
 |g(z)|=|e^{f(z)}| = |e^{\mathrm{Re} f + i \mathrm{Im}f}|=|e^{\mathrm{Re}f}||e^{i\mathrm{Im}f}| = e^{\mathrm{Re} f}
 $$
@@ -76,7 +77,7 @@ But now, if say $A(r) > A(R)$, then:
 $$
 \sup _{{z \in C_{r}}} |g(z)| > \sup_{{z \in C_{R}}}|g(z)|
 $$
-in violation of the Maximum Modulus principle for the disc $D_R$. In the equality case, this still violates the Maximum Modulus principle since the assumption that $f$ was non-constant forces $g$ to be non-constant, wherein $g$ would have to be constant since it achieves its maximum not on the boundary (in particular, on $C_r$). These contradictions imply that $A(r)$ must be a strictly increasing function. $$\tag*{$\blacksquare$}$$ 
+in violation of the [[Maximum Modulus principle]] for the disc $D_R$. In the equality case, this still violates the [[Maximum Modulus principle]] since the assumption that $f$ was non-constant forces $g$ to be non-constant, wherein $g$ would have to be constant since it achieves its maximum not on the boundary (in particular, on $C_r$). These contradictions imply that $A(r)$ must be a strictly increasing function. $$\tag*{$\blacksquare$}$$ 
 
 _________________________________________________________________ 
 
@@ -97,16 +98,31 @@ _________________________________________________________________
 # #7
 ![[Pasted image 20250629192456.png]]
 
-***Proof***: Since the given domain for $f$ is the right half-plane (a simply connected open subset), we can find a conformal mapping sending any $w\in\mathbb{C}_{+}$ to 0 and the region to the unit disc. So put $w_0\in\mathbb{C}_{+}$. The explicit map can be constructed as:
+***Proof***: We edit the standard conformal map from $\mathbb{D}\to \mathbb{H}$ to obtain a map to the right half plane sending 0 to a chosen $w\in\mathbb{C}_+$:  
 $$
-g(z)= \frac{{w_{0}-z}}{z-1}
+g^{-1}(z)= \frac{{w-z}}{\overline{w}+z}
 $$
-
+Thus, we can easily construct the inverse:
+$$
+g(z)=\frac{{\overline{w}z-w}}{-z-1}
+$$
+We use the same notion in the original construction for a map sending $f(w)$ to 0:
+$$
+h(z)=\frac{{f(w)-z}}{\overline{f(w)}+z}
+$$
+Observe that now the composition $h(f(g(z))):\mathbb{D}\to\mathbb{D}$ where this map is holomorphic and sends 0 to 0. Thus, we can apply [[Schwarz Lemma]]:
+$$
+|[h(f(g(0)))]'|\leq 1\implies |f'(g(0))|\leq \frac{1}{|h'(f(g(0))|\cdot|g'(0)|}
+$$
+$$
+\implies |f'(w)|\leq \frac{1}{|h'(f(w))|\cdot|g'(0)|}=\frac{|4\cdot \mathrm{Re}(f(w))^2|}{|-2\cdot\mathrm{Re}(f(w))|}\cdot\frac{1}{|-2\cdot\mathrm{Re}(w)|}=\frac{\mathrm{Re}(f(w))}{\mathrm{Re}(w)}
+$$
+which was to be shown. 
 _________________________________________________________________ 
 # #9
 ![[Pasted image 20250629192521.png]]
 
-***Proof***: Consider the family of functions $\mathcal{F}:=\{f(z), f(z+1), f(z+2),... \}$. Since shifting the domain $G$ returns the same domain, all of these functions remain analytic and maintain the same uniform bound from $|f(z)|\leq M$ given under the assumptions. Thus, this family is uniformly bounded and, by Montel's Theorem, is then a normal family. Let $x\in \mathbb{R}$, and denote $f_n(z)=f(z+n)$. We have that $f_n(z)$ is a sequence in the normal family $\mathcal{F}$, and therefore, it must have a convergent subsequence $f_{n_k}(z)$. By $f _{n_ k}(x)\to c$ by the hypothesis, $f _{n_ k}\to c$ on the real line. But then the limiting function of the $f_{n_k}$, $c$ is holomorphic as the locally uniform limit of holomorphic functions. It then satisfies the Identity Theorem on $G$ so that it must be the constant function $c$ on the whole of $G$. The necessary limit then follows:
+***Proof***: Consider the family of functions $\mathcal{F}:=\{f(z), f(z+1), f(z+2),... \}$. Since shifting the domain $G$ returns the same domain, all of these functions remain analytic and maintain the same uniform bound from $|f(z)|\leq M$ given under the assumptions. Thus, this family is uniformly bounded and, by [[Montel's Theorem]], is then a [[normal family]]. Let $x\in \mathbb{R}$, and denote $f_n(z)=f(z+n)$. We have that $f_n(z)$ is a sequence in the [[normal family]] $\mathcal{F}$, and therefore, it must have a convergent subsequence $f_{n_k}(z)$. By $f _{n_ k}(x)\to c$ by the hypothesis, $f _{n_ k}\to c$ on the real line. But then the limiting function of the $f_{n_k}$, $c$ is holomorphic as the locally uniform limit of holomorphic functions. It then satisfies the [[Identity Theorem]] on $G$ so that it must be the constant function $c$ on the whole of $G$. The necessary limit then follows:
 $$
 \lim_{ x \to +\infty }  f(z+x)=c \ \ \ \ \text{for all } z\in G
 $$

@@ -1,3 +1,4 @@
+View all problems [[Analysis Exams.pdf#page=10&selection=0,29,0,39|here]]
 # #1
 ![[Pasted image 20250620122017.png]]
 
@@ -49,7 +50,6 @@ $$
 \frac{\pi}{e^a}=\int_{-\infty}^\infty \frac{\cos(ax)}{1+x^2}dx
 $$
 
-*This proof is only valid if $a>0$. Needs to be refined. *
 $$\tag*{$\blacksquare$}$$ 
 _________________________________________________________________ 
 # #5 
@@ -72,7 +72,9 @@ We have, as $V$ is simply connected except at -1 and 1, by the [[Residue Theorem
 $$
 \int _\gamma g(z)dz = 2\pi i\cdot \sum (-1+1)=0 \implies \int_\gamma f(z) dz=0
 $$
-as desired. $$\tag *{$\blacksquare$}$$
+as desired. 
+*This proof is not correct. Needs refinement*
+$$\tag *{$\blacksquare$}$$
 _________________________________________________________________
 
 # #6 
@@ -96,7 +98,5 @@ _________________________________________________________________
 # #7
 ![[Pasted image 20250620175235.png]]
 
-***Proof***: This proof is in the [Complex Analysis book by Stein](https://www.fing.edu.uy/~cerminar/Complex_Analysis.pdf) on page 56. Need to go through the details though!
+***Proof***: 
 $$\tag*{$\blacksquare$}$$ _________________________________________________________________ 
-
-hi
