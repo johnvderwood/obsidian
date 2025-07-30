@@ -11,12 +11,14 @@
             "id": "939c2791244a1994",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Analysis Pre-Lim/Analysis Exams.pdf"
+                "file": "Analysis Pre-Lim/Real Analysis/Theorems/Dominated Convergence Theorem.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Analysis Exams"
+              "icon": "lucide-file",
+              "title": "Dominated Convergence Theorem"
             }
           }
         ]
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis Pre-Lim/Analysis Exams.pdf",
+                "file": "Analysis Pre-Lim/Real Analysis/Theorems/Dominated Convergence Theorem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Analysis Exams"
+              "title": "Backlinks for Dominated Convergence Theorem"
             }
           },
           {
@@ -111,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Analysis Pre-Lim/Analysis Exams.pdf",
+                "file": "Analysis Pre-Lim/Real Analysis/Theorems/Dominated Convergence Theorem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Analysis Exams"
+              "title": "Outgoing links from Dominated Convergence Theorem"
             }
           },
           {
@@ -140,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Analysis Pre-Lim/Analysis Exams.pdf",
+                "file": "Analysis Pre-Lim/Complex Analysis/Past Pre-Lim Exams/January 2022.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Analysis Exams"
+              "title": "Outline of January 2022"
             }
           }
         ],
@@ -170,17 +172,29 @@
   },
   "active": "939c2791244a1994",
   "lastOpenFiles": [
+    "Analysis Pre-Lim/Real Analysis/Past Pre-Lim Exams/August 2020.md",
+    "Analysis Pre-Lim/Real Analysis/Past Pre-Lim Exams",
+    "Analysis Pre-Lim/Real Analysis/Theorems",
+    "Analysis Pre-Lim/Real Analysis/Definitions",
+    "Analysis Pre-Lim/Images/Pasted image 20250730162350.png",
+    "Analysis Pre-Lim/Real Analysis/Theorems/Dominated Convergence Theorem.md",
+    "Analysis Pre-Lim/Images/Pasted image 20250730160349.png",
+    "Analysis Pre-Lim/Real Analysis/Past Pre-Lim Exams/August 2021.md",
+    "Analysis Pre-Lim/Images/Pasted image 20250730143455.png",
+    "Analysis Pre-Lim/Images/Pasted image 20250730121329.png",
+    "Analysis Pre-Lim/Images/Pasted image 20250730115348.png",
+    "Analysis Pre-Lim/Images/Pasted image 20250730112623.png",
+    "Analysis Pre-Lim/Complex Analysis/Past Pre-Lim Exams/January 2022.md",
+    "Analysis Pre-Lim/Complex Analysis/Past Pre-Lim Exams/August 2021.md",
+    "Analysis Pre-Lim/Complex Analysis/Past Pre-Lim Exams/August 2020.md",
+    "Analysis Pre-Lim/Complex Analysis/Past Pre-Lim Exams/January 2019.md",
+    "Analysis Pre-Lim/Complex Analysis/Past Pre-Lim Exams/August 2018.md",
+    "Analysis Pre-Lim/Complex Analysis/Past Pre-Lim Exams/August 2017.md",
+    "Analysis Pre-Lim/Analysis Exams.pdf",
     "Analysis Pre-Lim/Complex Analysis/Theorems/Liouville's Theorem.md",
     "Analysis Pre-Lim/Complex Analysis/Theorems/Symmetry Principle.md",
     "Analysis Pre-Lim/Complex Analysis/Theorems/Schwarz Reflection Principle.md",
     "Analysis Pre-Lim/Complex Analysis/Theorems/Maximum Modulus Principle.md",
-    "Analysis Pre-Lim/Complex Analysis/Past Pre-Lim Exams/January 2019.md",
-    "Analysis Pre-Lim/Complex Analysis/Past Pre-Lim Exams/August 2018.md",
-    "Analysis Pre-Lim/Complex Analysis/Past Pre-Lim Exams/August 2017.md",
-    "Analysis Pre-Lim/Complex Analysis/Past Pre-Lim Exams/January 2022.md",
-    "Analysis Pre-Lim/Complex Analysis/Past Pre-Lim Exams/August 2021.md",
-    "Analysis Pre-Lim/Complex Analysis/Past Pre-Lim Exams/August 2020.md",
-    "Analysis Pre-Lim/Analysis Exams.pdf",
     "[[Analysis Exams.pdf.md",
     "here.md",
     "Analysis Pre-Lim/All Past Exams.md",
@@ -193,20 +207,10 @@
     "Analysis Pre-Lim/Complex Analysis/Definitions/Cayley Transformation.md",
     "Analysis Pre-Lim/Complex Analysis/Theorems/Schwarz Lemma.md",
     "Untitled.md",
-    "Analysis Pre-Lim/Images/Pasted image 20250708124040.png",
-    "Analysis Pre-Lim/Images/Pasted image 20250708124012.png",
-    "Analysis Pre-Lim/Images/Pasted image 20250708123952.png",
-    "Analysis Pre-Lim/Images/Pasted image 20250708123913.png",
-    "Analysis Pre-Lim/Images/Pasted image 20250707191806.png",
     "Analysis Pre-Lim/Complex Analysis/Theorems/Montel's Theorem.md",
     "Analysis Pre-Lim/Complex Analysis/Definitions/Residue.md",
     "Analysis Pre-Lim/Complex Analysis/Theorems/Residue Theorem.md",
-    "Analysis Pre-Lim/Images/Pasted image 20250702183416.png",
     "Analysis Pre-Lim/Complex Analysis/Theorems/Open Mapping Theorem.md",
-    "Analysis Pre-Lim/Complex Analysis/Theorems/Rouche's Theorem.md",
-    "Analysis Pre-Lim/Complex Analysis/Theorems/Riemann Mapping Theorem.md",
-    "Analysis Pre-Lim/Complex Analysis/Theorems/Cauchy's Inequality.md",
-    "Analysis Pre-Lim/Complex Analysis/Theorems/Reverse Triangle Inequality.md",
     "Untitled.canvas"
   ]
 }
