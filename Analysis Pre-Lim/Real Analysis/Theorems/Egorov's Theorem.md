@@ -1,0 +1,1 @@
+Suppose $f_n\to f$ pointwise a.e. on some set of finite measure $A$. Then for all $\epsilon>0$, there exists a measurable set $E$ such that $m(E)<\epsilon$ and $f_n\to f$ uniformly on $A\setminus E$. 
