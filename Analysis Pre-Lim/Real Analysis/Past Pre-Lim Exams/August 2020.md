@@ -28,3 +28,8 @@ _________________________________________________________________
 # #5
 ![[Pasted image 20250730162350.png]]
 
+***Proof***: Our goal is towards Holder's, so to this end, rewrite the given expression as:
+
+$$
+\frac{1}{p} + \frac{1}{q } =\frac{1}{r } \iff \frac{r}{p} +\frac{r}{q} = 1 \iff \frac{1}{ \frac{p}{r} } + \frac{1}{ \frac{q}{r} } = 1
+$$

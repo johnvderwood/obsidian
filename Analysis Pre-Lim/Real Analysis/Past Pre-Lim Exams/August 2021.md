@@ -26,7 +26,7 @@ And now we apply [[Holder's Inequality]] to the innermost integrand:
 $$
 \leq \left( \int \left(\int|K(x, y)| dy \right)^{p/q} \left( \int |K(x, y)| |f(y)|^pdy \right) dx \right)^{1/p} \leq \left( \int C^{ p/q } \int |K(x, y)| |f(y)|^pdy \ dx   \right)^{1/p}
 $$
-Now, again by Tonelli's Theorem, we achieve:
+Now, again by [[Tonelli's Theorem]], we achieve:
 $$
 = \left(C^{p/q} \int \int |K(x, y)||f(y)|^pdx dy \right)^{1/p}\leq \left( C^{p/q+1 } \int |f(y)|^pdy\right)^{1/p} = C^{1/q+1/p}||f||_{p}=C\cdot||f||_{p}
 $$
@@ -56,9 +56,11 @@ $$
 \int _{A \setminus  E} |x|^nf(x)dx + \int_{E}|x|^n f(x) dx + \int_{-1}^1 |x|^n f(x) dx
 $$
 Our concentration lies within the middle integral here. Note that if we define $f_n(x)=|x|^n f(x)$, then $f_n$ is increasing as n increases for a fixed $x$ since $|x|>1$ on $E$. Moreover, the $f_n$ are non-negative clearly. We lastly see that the pointwise limit for some $x\in E$ has $f_n(x)\to \infty$ since $f(x)>0$ on $E$ and $|x|^n$ grows without bound for $|x|>1$. Thus, we can apply the [[Monotone Convergence Theorem]] to assert that:
+
 $$
 \lim _{ n \to \infty } \int_{E} |x|^nf(x) dx \to \infty
 $$
+
 Consequently then the unsplit integral tends toward infinity as $n$ grows since the other integrands are always non-negative so that we have at worst some non-negative value plus an infinitely growing value. Thus 
 $$
 \lim _{ n \to \infty } \int_{\mathbb{R}} |x|^nf(x)dx \to \infty 
@@ -67,10 +69,10 @@ contradicting the given condition that the supremum over $n$ is finite.
 $$\tag*{$\blacksquare$}$$ 
 _________________________________________________________________ 
 
-# #9 
+# #9
 ![[Pasted image 20250730143455.png]]
 
-***Proof***: We proceed by contradiction, assuming that $f_n$ is Cauchy. Since $L^1$ is complete, then $f_n\to f\in L^1$ in $L^1$ norm. Now, notice further that we have the following convergence by [[Holder's Inequality]]:
+***Proof***: We proceed by contradiction, assuming that $f_n$ is Cauchy. Since $L^1$ is complete, then $f_n\to f\in L^1$ in $L^1$ norm. Now, notice further that we have the following convergence by [[Holder's Inequality]] directly:
 $$
 \left|\int _{\mathbb{R}} f_{n}g \ - \int _{\mathbb{R}} fg\right| \leq ||g||_{\infty}||f _{n}-f||_{1} \to 0 
 $$
@@ -81,8 +83,8 @@ $$
 We now define a sequence of continuous and compactly supported functions:
 $$
 g_{k}(x) := \begin{cases} 
-nx+\frac{1}{n} \hspace{0.5 in} &\text{if } x \in \left[ -\frac{1}{n}, 0 \right) \\ \\
--nx+\frac{1}{n} \hspace{0.5 in} &\text{if } x \in \left[ 0, \frac{1}{n} \right] \\ \\
+nx+1 \hspace{0.5 in} &\text{if } x \in \left[ -\frac{1}{n}, 0 \right) \\ \\
+-nx+1 \hspace{0.5 in} &\text{if } x \in \left[ 0, \frac{1}{n} \right] \\ \\
 0 \hspace{0.5 in} &\text{else}
 \end{cases}  
 $$
