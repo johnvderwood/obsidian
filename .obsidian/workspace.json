@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "e361215c39186a71",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Analysis Pre-Lim/Analysis Exams.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Analysis Exams"
+            }
+          },
+          {
             "id": "56e459e5e2b93d5e",
             "type": "leaf",
             "state": {
@@ -35,7 +47,8 @@
               "title": "Dominated Convergence Theorem"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,18 +197,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7c74624a802d9d46",
+  "active": "e361215c39186a71",
   "lastOpenFiles": [
-    "Analysis Pre-Lim/Real Analysis/Past Pre-Lim Exams/August 2021.md",
-    "Analysis Pre-Lim/Real Analysis/Theorems/Egorov's Theorem.md",
+    "Analysis Pre-Lim/Real Analysis/Past Pre-Lim Exams/January 2019.md",
     "Analysis Pre-Lim/Analysis Exams.pdf",
+    "Analysis Pre-Lim/Images/Pasted image 20250801180438.png",
     "Analysis Pre-Lim/Real Analysis/Past Pre-Lim Exams/August 2020.md",
+    "Analysis Pre-Lim/Images/Pasted image 20250801174812.png",
+    "Analysis Pre-Lim/Complex Analysis/Past Pre-Lim Exams/August 2020.md",
+    "Analysis Pre-Lim/Images/Pasted image 20250801021213.png",
+    "Analysis Pre-Lim/Images/Pasted image 20250801015240.png",
+    "Analysis Pre-Lim/Real Analysis/Theorems/Holder's Inequality.md",
+    "Analysis Pre-Lim/Real Analysis/Theorems/Egorov's Theorem.md",
+    "Analysis Pre-Lim/Real Analysis/Past Pre-Lim Exams/August 2021.md",
+    "Untitled.md",
     "Analysis Pre-Lim/Real Analysis/Theorems/Fatou's Lemma.md",
     "Analysis Pre-Lim/Real Analysis/Theorems/Monotone Convergence Theorem.md",
     "Analysis Pre-Lim/Real Analysis/Theorems/Continuity from Below.md",
     "Analysis Pre-Lim/Real Analysis/Theorems/Continuity from Above.md",
-    "Analysis Pre-Lim/Real Analysis/Theorems/Holder's Inequality.md",
-    "Untitled.md",
     "Analysis Pre-Lim/Real Analysis/Theorems/Fubini's Theorem.md",
     "Analysis Pre-Lim/Real Analysis/Theorems/Tonelli's Theorem.md",
     "Analysis Pre-Lim/Real Analysis/Theorems/Dominated Convergence Theorem.md",
@@ -209,21 +228,15 @@
     "Analysis Pre-Lim/Images/Pasted image 20250730115348.png",
     "Analysis Pre-Lim/Images/Pasted image 20250730112623.png",
     "Analysis Pre-Lim/Complex Analysis/Past Pre-Lim Exams/August 2024.md",
-    "Analysis Pre-Lim/Images/Pasted image 20250725231634.png",
     "Analysis Pre-Lim/Complex Analysis/Theorems/Schwarz Lemma.md",
-    "Analysis Pre-Lim/Images/Pasted image 20250725224546.png",
     "Analysis Pre-Lim/Complex Analysis/Past Pre-Lim Exams/January 2022.md",
     "Analysis Pre-Lim/Complex Analysis/Past Pre-Lim Exams/August 2017.md",
     "Analysis Pre-Lim/Complex Analysis/Past Pre-Lim Exams/August 2018.md",
-    "Analysis Pre-Lim/Images/Pasted image 20250716085949.png",
-    "Analysis Pre-Lim/Images/Pasted image 20250716085926.png",
     "Analysis Pre-Lim/Complex Analysis/Theorems/Symmetry Principle.md",
     "Analysis Pre-Lim/Complex Analysis/Theorems/Schwarz Reflection Principle.md",
     "Analysis Pre-Lim/Complex Analysis/Past Pre-Lim Exams/January 2019.md",
     "Analysis Pre-Lim/Complex Analysis/Theorems/Liouville's Theorem.md",
-    "Analysis Pre-Lim/Complex Analysis/Past Pre-Lim Exams/August 2020.md",
     "Analysis Pre-Lim/Complex Analysis/Past Pre-Lim Exams/August 2021.md",
-    "Analysis Pre-Lim/Complex Analysis/Theorems/Rouche's Theorem.md",
-    "Analysis Pre-Lim/Complex Analysis/Theorems/Riemann Mapping Theorem.md"
+    "Analysis Pre-Lim/Complex Analysis/Theorems/Rouche's Theorem.md"
   ]
 }

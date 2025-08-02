@@ -28,3 +28,50 @@ _________________________________________________________________
 # #5
 ![[Pasted image 20250730162350.png]]
 
+***Proof***: Our goal is towards Holder's, so to this end, rewrite the given expression as:
+
+$$
+\frac{1}{p} + \frac{1}{q } =\frac{1}{r } \iff \frac{r}{p} +\frac{r}{q} = 1 \iff \frac{1}{ \frac{p}{r} } + \frac{1}{ \frac{q}{r} } = 1
+$$
+Now observe that by [[Holder's Inequality]]: 
+$$
+||fg||^r_{L^r}=\int|f^r||g^r|  \leq \left(\int(|f|^r)^{p/r}\right)^{r/p}\left(\int(|g|^r)^{q/r}\right)^{r/q}
+$$
+Now reapplying the $1/r$ power to both sides:
+$$
+||fg||_{L^r}\leq \left(\int|f|^p\right)^{1/p}\left(\int|g|^q\right)^{1/q} = ||f||_{L^p}||g||_{L^q}
+$$
+$$\tag*{$\blacksquare$}$$ _________________________________________________________________ 
+
+# #6
+![[Pasted image 20250801015240.png]]
+
+***Proof***: Under the hypotheses, we let $\epsilon>0$. By Egorov's Theorem, there exists a set $E$ measurable with $m(E)< \frac{\epsilon}{2}$ such that $f_{n}\to 0$ uniformly on $[0,1]\setminus E$. By uniform convergence, there additionally exists a $N$ such that $n\geq N$ guarantees
+$$
+|f_{n}|\leq \frac{\epsilon}{2}
+$$
+on $E$. In order to put these together, notice that
+$$
+||f _{n}||_{L^1[0, 1]}=\int _{E}|f_{n}| + \int_{[0, 1]\setminus E}|f _{n}|\leq \int_{E}|f_{n}|+ \frac{\epsilon^2}{4}
+$$
+by the above. To bound the other integral, we apply Holder's Inequality:
+$$
+\int _{E^c}|f_{n}| \leq \left(\int|f_{n}|^2\right)^{1/2} \left(\int dm\right)^{1/2} \leq 1\cdot {m(E)}^{1/2}= \sqrt{ \frac{\epsilon}{2} }
+$$
+Thus,
+$$
+||f _{n}||_{L^1[0, 1]}\leq \sqrt{ \frac{\epsilon}{2} }+ \frac{\epsilon^2}{4}
+$$
+which is sufficient to show the $L^1$ convergence to 0 as $\epsilon$ was arbitrary. 
+$$\tag*{$\blacksquare$}$$ _________________________________________________________________ 
+
+
+# #7
+![[Pasted image 20250801021213.png]]
+
+***Proof***: Consider the sequence of functions $f_n(x)=1+1/n$. 
+
+# #9
+![[Pasted image 20250801174812.png]]
+
+***Proof***: 
