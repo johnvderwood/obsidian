@@ -25,12 +25,14 @@
             "id": "e361215c39186a71",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Analysis Pre-Lim/Analysis Exams.pdf"
+                "file": "Analysis Pre-Lim/Real Analysis/Past Pre-Lim Exams/January 2019.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Analysis Exams"
+              "icon": "lucide-file",
+              "title": "January 2019"
             }
           },
           {
@@ -199,17 +201,17 @@
   },
   "active": "e361215c39186a71",
   "lastOpenFiles": [
+    "Analysis Pre-Lim/Real Analysis/Past Pre-Lim Exams/August 2020.md",
+    "Analysis Pre-Lim/Real Analysis/Past Pre-Lim Exams/August 2021.md",
     "Analysis Pre-Lim/Real Analysis/Past Pre-Lim Exams/January 2019.md",
     "Analysis Pre-Lim/Analysis Exams.pdf",
     "Analysis Pre-Lim/Images/Pasted image 20250801180438.png",
-    "Analysis Pre-Lim/Real Analysis/Past Pre-Lim Exams/August 2020.md",
     "Analysis Pre-Lim/Images/Pasted image 20250801174812.png",
     "Analysis Pre-Lim/Complex Analysis/Past Pre-Lim Exams/August 2020.md",
     "Analysis Pre-Lim/Images/Pasted image 20250801021213.png",
     "Analysis Pre-Lim/Images/Pasted image 20250801015240.png",
     "Analysis Pre-Lim/Real Analysis/Theorems/Holder's Inequality.md",
     "Analysis Pre-Lim/Real Analysis/Theorems/Egorov's Theorem.md",
-    "Analysis Pre-Lim/Real Analysis/Past Pre-Lim Exams/August 2021.md",
     "Untitled.md",
     "Analysis Pre-Lim/Real Analysis/Theorems/Fatou's Lemma.md",
     "Analysis Pre-Lim/Real Analysis/Theorems/Monotone Convergence Theorem.md",
