@@ -84,7 +84,7 @@ We now define a sequence of continuous and compactly supported functions:
 $$
 g_{k}(x) := \begin{cases} 
 nx+1 \hspace{0.5 in} &\text{if } x \in \left[ -\frac{1}{n}, 0 \right) \\ \\
--nx+1 \hspace{0.5 in} &\text{if } x \in \left[ 0, \frac{1}{n} \right] \\ \\
+-nx+\frac{1}{n} \hspace{0.5 in} &\text{if } x \in \left[ 0, \frac{1}{n} \right] \\ \\
 0 \hspace{0.5 in} &\text{else}
 \end{cases}  
 $$

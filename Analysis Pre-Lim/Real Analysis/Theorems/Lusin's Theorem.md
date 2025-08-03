@@ -1,0 +1,1 @@
+Let $f: X\to \mathbb{R}$ be a measurable function. Let $\epsilon>0$. Then for all $A\in\mathcal{M}$ of finite measure, there exists $E \subset A$ closed such that $m(A \setminus E)<\epsilon$ and $f$ is continuous on $E$.  
