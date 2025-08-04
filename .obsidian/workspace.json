@@ -11,12 +11,14 @@
             "id": "939c2791244a1994",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Analysis Pre-Lim/Analysis Exams.pdf"
+                "file": "Analysis Pre-Lim/Complex Analysis/Theorems/Casarati-Weierstrass Theorem.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Analysis Exams"
+              "icon": "lucide-file",
+              "title": "Casarati-Weierstrass Theorem"
             }
           }
         ]
@@ -111,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Analysis Pre-Lim/Analysis Exams.pdf",
+                "file": "Analysis Pre-Lim/Complex Analysis/Theorems/Casarati-Weierstrass Theorem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Analysis Exams"
+              "title": "Outgoing links from Casarati-Weierstrass Theorem"
             }
           },
           {
@@ -170,8 +172,10 @@
   },
   "active": "939c2791244a1994",
   "lastOpenFiles": [
-    "Analysis Pre-Lim/Complex Analysis/Definitions/Pole.md",
     "Analysis Pre-Lim/Analysis Exams.pdf",
+    "Analysis Pre-Lim/Complex Analysis/Theorems/Casarati-Weierstrass Theorem.md",
+    "Untitled.md",
+    "Analysis Pre-Lim/Complex Analysis/Definitions/Pole.md",
     "Analysis Pre-Lim/Complex Analysis/Past Pre-Lim Exams/August 2016.md",
     "Analysis Pre-Lim/Images/Pasted image 20250803195340.png",
     "Analysis Pre-Lim/Images/Pasted image 20250803195256.png",
@@ -202,11 +206,8 @@
     "Analysis Pre-Lim/Images/Pasted image 20250802164852.png",
     "Analysis Pre-Lim/Images/Pasted image 20250802163019.png",
     "Analysis Pre-Lim/Real Analysis/Past Pre-Lim Exams/August 2021.md",
-    "Analysis Pre-Lim/Real Analysis/Past Pre-Lim Exams/August 2020.md",
     "Analysis Pre-Lim/Images/Pasted image 20250802155858.png",
     "Analysis Pre-Lim/Images/Pasted image 20250802145844.png",
-    "Analysis Pre-Lim/Complex Analysis/Past Pre-Lim Exams/January 2019.md",
-    "Analysis Pre-Lim/Complex Analysis/Past Pre-Lim Exams/August 2018.md",
     "Analysis Pre-Lim/Real Analysis/Past Pre-Lim Exams",
     "Analysis Pre-Lim/Real Analysis/Theorems",
     "Analysis Pre-Lim/Real Analysis/Definitions",
