@@ -11,14 +11,12 @@
             "id": "939c2791244a1994",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Analysis Pre-Lim/Real Analysis/Past Pre-Lim Exams/August 2017.md",
-                "mode": "source",
-                "source": false
+                "file": "Analysis Pre-Lim/Analysis Exams.pdf"
               },
-              "icon": "lucide-file",
-              "title": "August 2017"
+              "icon": "lucide-file-text",
+              "title": "Analysis Exams"
             }
           }
         ]
@@ -113,12 +111,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Analysis Pre-Lim/Real Analysis/Past Pre-Lim Exams/August 2017.md",
+                "file": "Analysis Pre-Lim/Analysis Exams.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from August 2017"
+              "title": "Outgoing links from Analysis Exams"
             }
           },
           {
@@ -172,45 +170,46 @@
   },
   "active": "939c2791244a1994",
   "lastOpenFiles": [
-    "Analysis Pre-Lim/Real Analysis/Theorems/Egorov's Theorem.md",
+    "Analysis Pre-Lim/Complex Analysis/Definitions/Pole.md",
     "Analysis Pre-Lim/Analysis Exams.pdf",
+    "Analysis Pre-Lim/Complex Analysis/Past Pre-Lim Exams/August 2016.md",
+    "Analysis Pre-Lim/Images/Pasted image 20250803195340.png",
+    "Analysis Pre-Lim/Images/Pasted image 20250803195256.png",
+    "Analysis Pre-Lim/Real Analysis/Past Pre-Lim Exams/August 2016.md",
+    "Analysis Pre-Lim/Complex Analysis/Definitions/Normal Family.md",
+    "Analysis Pre-Lim/Complex Analysis/Theorems/Cauchy's Integral Formula.md",
+    "Analysis Pre-Lim/Complex Analysis/Theorems/Cauchy's Inequality.md",
+    "Analysis Pre-Lim/Complex Analysis/Definitions/Automorphisms of the Unit Disc.md",
+    "Analysis Pre-Lim/Real Analysis/Theorems/Convergence Diagram.md",
+    "Analysis Pre-Lim/Real Analysis/Theorems/Minkowski's Inequality.md",
+    "Analysis Pre-Lim/Real Analysis/Theorems/Lusin's Theorem.md",
+    "Analysis Pre-Lim/Real Analysis/Theorems/Egorov's Theorem.md",
+    "Analysis Pre-Lim/Real Analysis/Theorems/Tonelli's Theorem.md",
+    "Analysis Pre-Lim/Real Analysis/Theorems/Monotone Convergence Theorem.md",
+    "Analysis Pre-Lim/Real Analysis/Theorems/Holder's Inequality.md",
+    "Analysis Pre-Lim/Real Analysis/Theorems/Fubini's Theorem.md",
+    "Analysis Pre-Lim/Real Analysis/Theorems/Fatou's Lemma.md",
+    "Analysis Pre-Lim/Real Analysis/Theorems/Continuity from Below.md",
+    "Analysis Pre-Lim/Real Analysis/Theorems/Continuity from Above.md",
+    "Analysis Pre-Lim/Real Analysis/Theorems/Dominated Convergence Theorem.md",
+    "Analysis Pre-Lim/Images/Pasted image 20250803145959.png",
     "Analysis Pre-Lim/Real Analysis/Past Pre-Lim Exams/August 2017.md",
+    "Analysis Pre-Lim/Real Analysis/Past Pre-Lim Exams/August 2018.md",
+    "Analysis Pre-Lim/Real Analysis/Past Pre-Lim Exams/January 2019.md",
+    "Analysis Pre-Lim/Images/Pasted image 20250803002854.png",
     "Analysis Pre-Lim/Images/Pasted image 20250802182546.png",
     "Analysis Pre-Lim/Images/Pasted image 20250802180124.png",
-    "Analysis Pre-Lim/Real Analysis/Past Pre-Lim Exams/August 2018.md",
-    "Analysis Pre-Lim/Real Analysis/Theorems/Minkowski's Inequality.md",
-    "Analysis Pre-Lim/Real Analysis/Theorems/Dominated Convergence Theorem.md",
-    "Analysis Pre-Lim/Real Analysis/Theorems/Fubini's Theorem.md",
-    "Analysis Pre-Lim/Real Analysis/Theorems/Tonelli's Theorem.md",
     "Analysis Pre-Lim/Images/Pasted image 20250802164852.png",
     "Analysis Pre-Lim/Images/Pasted image 20250802163019.png",
     "Analysis Pre-Lim/Real Analysis/Past Pre-Lim Exams/August 2021.md",
     "Analysis Pre-Lim/Real Analysis/Past Pre-Lim Exams/August 2020.md",
-    "Analysis Pre-Lim/Real Analysis/Past Pre-Lim Exams/January 2019.md",
     "Analysis Pre-Lim/Images/Pasted image 20250802155858.png",
     "Analysis Pre-Lim/Images/Pasted image 20250802145844.png",
-    "Analysis Pre-Lim/Images/Pasted image 20250802143421.png",
-    "Analysis Pre-Lim/Real Analysis/Theorems/Lusin's Theorem.md",
-    "Analysis Pre-Lim/Images/Pasted image 20250802135728.png",
-    "Analysis Pre-Lim/Real Analysis/Theorems/Fatou's Lemma.md",
-    "Analysis Pre-Lim/Images/Pasted image 20250801180438.png",
-    "Analysis Pre-Lim/Images/Pasted image 20250801174812.png",
     "Analysis Pre-Lim/Complex Analysis/Past Pre-Lim Exams/January 2019.md",
     "Analysis Pre-Lim/Complex Analysis/Past Pre-Lim Exams/August 2018.md",
-    "Analysis Pre-Lim/Complex Analysis/Past Pre-Lim Exams/August 2017.md",
-    "Analysis Pre-Lim/Complex Analysis/Past Pre-Lim Exams/August 2024.md",
-    "Analysis Pre-Lim/Real Analysis/Theorems/Monotone Convergence Theorem.md",
-    "Analysis Pre-Lim/Real Analysis/Theorems/Holder's Inequality.md",
-    "Analysis Pre-Lim/Real Analysis/Theorems/Continuity from Below.md",
-    "Analysis Pre-Lim/Real Analysis/Theorems/Continuity from Above.md",
     "Analysis Pre-Lim/Real Analysis/Past Pre-Lim Exams",
     "Analysis Pre-Lim/Real Analysis/Theorems",
     "Analysis Pre-Lim/Real Analysis/Definitions",
-    "Analysis Pre-Lim/Complex Analysis/Past Pre-Lim Exams/January 2022.md",
-    "Analysis Pre-Lim/Complex Analysis/Past Pre-Lim Exams/August 2021.md",
-    "Analysis Pre-Lim/Complex Analysis/Past Pre-Lim Exams/August 2020.md",
-    "Analysis Pre-Lim/Complex Analysis/Theorems/Liouville's Theorem.md",
-    "Analysis Pre-Lim/Complex Analysis/Theorems/Symmetry Principle.md",
     "Untitled.canvas"
   ]
 }
