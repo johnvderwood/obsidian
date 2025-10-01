@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Analysis Pre-Lim/Complex Analysis/Theorems/Casarati-Weierstrass Theorem.md",
+                "file": "Analysis Pre-Lim/Complex Analysis/Theorems/Symmetry Principle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Casarati-Weierstrass Theorem"
+              "title": "Symmetry Principle"
+            }
+          },
+          {
+            "id": "73f73fe0ccfca3af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Analysis Pre-Lim/Complex Analysis/Theorems/Symmetry Principle.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Symmetry Principle"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Analysis Pre-Lim/Complex Analysis/Theorems/Casarati-Weierstrass Theorem.md",
+                "file": "Analysis Pre-Lim/Complex Analysis/Theorems/Symmetry Principle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Casarati-Weierstrass Theorem"
+              "title": "Outgoing links from Symmetry Principle"
             }
           },
           {
@@ -160,6 +175,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "github-sync:Sync with Remote": false,
       "custom-sort:Toggle custom sorting": false,
       "switcher:Open quick switcher": false,
@@ -170,42 +186,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "939c2791244a1994",
+  "active": "73f73fe0ccfca3af",
   "lastOpenFiles": [
-    "Analysis Pre-Lim/Analysis Exams.pdf",
     "Analysis Pre-Lim/Complex Analysis/Theorems/Casarati-Weierstrass Theorem.md",
-    "Untitled.md",
-    "Analysis Pre-Lim/Complex Analysis/Definitions/Pole.md",
+    "Analysis Pre-Lim/Complex Analysis/Theorems/Symmetry Principle.md",
+    "Analysis Pre-Lim/Complex Analysis/Definitions/Cayley Transformation.md",
+    "Analysis Pre-Lim/Complex Analysis/Past Pre-Lim Exams/August 2017.md",
     "Analysis Pre-Lim/Complex Analysis/Past Pre-Lim Exams/August 2016.md",
+    "Analysis Pre-Lim/Complex Analysis/Past Pre-Lim Exams/August 2024.md",
+    "Analysis Pre-Lim/Real Analysis/Theorems/Convergence Diagram.md",
+    "Analysis Pre-Lim/Analysis Exams.pdf",
+    "Analysis Pre-Lim/Complex Analysis/Theorems/Schwarz Reflection Principle.md",
+    "Analysis Pre-Lim/Complex Analysis/Theorems/Liouville's Theorem.md",
+    "Analysis Pre-Lim/Complex Analysis/Theorems/Maximum Modulus Principle.md",
+    "Analysis Pre-Lim/Complex Analysis/Theorems/Open Mapping Theorem.md",
+    "Analysis Pre-Lim/Complex Analysis/Theorems/Rouche's Theorem.md",
+    "Analysis Pre-Lim/Complex Analysis/Theorems/Riemann Mapping Theorem.md",
+    "Analysis Pre-Lim/Complex Analysis/Theorems/Cauchy's Inequality.md",
+    "Analysis Pre-Lim/Complex Analysis/Theorems/Montel's Theorem.md",
+    "Analysis Pre-Lim/Complex Analysis/Theorems/Schwarz Lemma.md",
+    "Analysis Pre-Lim/Complex Analysis/Theorems/Reverse Triangle Inequality.md",
+    "Analysis Pre-Lim/Complex Analysis/Theorems/Residue Theorem.md",
+    "Analysis Pre-Lim/Complex Analysis/Theorems/Identity Theorem.md",
+    "Analysis Pre-Lim/Complex Analysis/Theorems/Cauchy's Integral Formula.md",
+    "Analysis Pre-Lim/Complex Analysis/Theorems/Argument Principle.md",
+    "Analysis Pre-Lim/Complex Analysis/Definitions/Residue.md",
+    "Analysis Pre-Lim/Complex Analysis/Definitions/Normal Family.md",
+    "Analysis Pre-Lim/Complex Analysis/Definitions/Automorphisms of the Unit Disc.md",
+    "Analysis Pre-Lim/Complex Analysis/Definitions/Riemann Sphere.md",
+    "Analysis Pre-Lim/Complex Analysis/Definitions/Pole.md",
     "Analysis Pre-Lim/Images/Pasted image 20250803195340.png",
     "Analysis Pre-Lim/Images/Pasted image 20250803195256.png",
-    "Analysis Pre-Lim/Real Analysis/Past Pre-Lim Exams/August 2016.md",
-    "Analysis Pre-Lim/Complex Analysis/Definitions/Normal Family.md",
-    "Analysis Pre-Lim/Complex Analysis/Theorems/Cauchy's Integral Formula.md",
-    "Analysis Pre-Lim/Complex Analysis/Theorems/Cauchy's Inequality.md",
-    "Analysis Pre-Lim/Complex Analysis/Definitions/Automorphisms of the Unit Disc.md",
-    "Analysis Pre-Lim/Real Analysis/Theorems/Convergence Diagram.md",
-    "Analysis Pre-Lim/Real Analysis/Theorems/Minkowski's Inequality.md",
-    "Analysis Pre-Lim/Real Analysis/Theorems/Lusin's Theorem.md",
-    "Analysis Pre-Lim/Real Analysis/Theorems/Egorov's Theorem.md",
-    "Analysis Pre-Lim/Real Analysis/Theorems/Tonelli's Theorem.md",
-    "Analysis Pre-Lim/Real Analysis/Theorems/Monotone Convergence Theorem.md",
-    "Analysis Pre-Lim/Real Analysis/Theorems/Holder's Inequality.md",
-    "Analysis Pre-Lim/Real Analysis/Theorems/Fubini's Theorem.md",
-    "Analysis Pre-Lim/Real Analysis/Theorems/Fatou's Lemma.md",
-    "Analysis Pre-Lim/Real Analysis/Theorems/Continuity from Below.md",
-    "Analysis Pre-Lim/Real Analysis/Theorems/Continuity from Above.md",
-    "Analysis Pre-Lim/Real Analysis/Theorems/Dominated Convergence Theorem.md",
     "Analysis Pre-Lim/Images/Pasted image 20250803145959.png",
-    "Analysis Pre-Lim/Real Analysis/Past Pre-Lim Exams/August 2017.md",
-    "Analysis Pre-Lim/Real Analysis/Past Pre-Lim Exams/August 2018.md",
-    "Analysis Pre-Lim/Real Analysis/Past Pre-Lim Exams/January 2019.md",
     "Analysis Pre-Lim/Images/Pasted image 20250803002854.png",
     "Analysis Pre-Lim/Images/Pasted image 20250802182546.png",
     "Analysis Pre-Lim/Images/Pasted image 20250802180124.png",
     "Analysis Pre-Lim/Images/Pasted image 20250802164852.png",
     "Analysis Pre-Lim/Images/Pasted image 20250802163019.png",
-    "Analysis Pre-Lim/Real Analysis/Past Pre-Lim Exams/August 2021.md",
     "Analysis Pre-Lim/Images/Pasted image 20250802155858.png",
     "Analysis Pre-Lim/Images/Pasted image 20250802145844.png",
     "Analysis Pre-Lim/Real Analysis/Past Pre-Lim Exams",

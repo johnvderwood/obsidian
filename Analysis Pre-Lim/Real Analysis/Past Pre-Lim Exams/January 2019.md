@@ -3,7 +3,7 @@
 
 ***Proof***: For the forward direction, we extract $E_n$ of finite measure and disjoint such that 
 $$\bigcup E_{n}= X $$
-WLOG, we assume naturally all sets have non-zero measure. 
+WLOG, we assume naturally all sets have non-zero measure. *actually need to use the $a_n$ I thought of originally to avoid 0 measure sets* 
 $$
 f(x)=\sum _{n=1}^\infty \chi_{E _{n}}\cdot \frac{1}{2^n\mu(E_{n})}
 $$
@@ -12,7 +12,7 @@ Observe now that:
 $$
 \int _{X}f(x)d\mu = \int_{X}\sum _{n=1}^\infty \chi_{E _{n}}\cdot \frac{1}{2^n\mu(E_{n})}d\mu = \sum _{n=1}^\infty \int_{X}\chi _{E_{n}} \frac{1}{2^n\mu( E _{n})}d\mu = \sum_{n=1}^\infty \frac{\mu(E _{n})}{2^n\mu(E_{n})} = \sum_{n=1}^\infty \frac{1}{2^n}= 1. 
 $$
-where the interchanging of the sum and integral has been applied with [[Tonelli's Theorem]]. 
+where the interchanging of the sum and integral has been applied with [[Tonelli's Theorem]]. *We should normalize this using f/int(f)*
 For the other direction, we suppose there exists a measurable function with the given property. In order to construct the sigma finite defining sets, we consider the sets
 $$
 E_{n } := \left\{  x\in X \ | \ f(x)\geq \frac{1}{n}  \right\}
@@ -39,7 +39,11 @@ $$\tag*{$\blacksquare$}$$ ______________________________________________________
 $$
 \int _{0}^1 \frac{{|f-f_{n}|}}{|f-f_{n}|+1}dm
 $$
-has non-negative integrand. Moreover, by pointwise convergence $\lim_{ n \to \infty }|f-f_{n}|=0$. Thus, we apply [[Tonelli's Theorem]] to the above integral:
+has non-negative integrand. Moreover, by pointwise convergence $\lim_{ n \to \infty }|f-f_{n}|=0$. With the bound:
+$$
+\frac{{|f-f _{n}|}}{|f-f_{n}|+1}\leq \frac{{|f-f _{n}|}}{|f-f_{n}|} =1 \in L^1([0,1])
+$$
+Thus, using the [[Dominated Convergence Theorem]], we can pull in the limit:
 $$
 \lim _{ n \to \infty } \int_{0}^1 \frac{{|f-f _{n}|}}{|f-f_{n}|+1}dm = \int_{0}^1 \frac{0}{0+1}dm = 0 
 $$
